@@ -1,4 +1,4 @@
-# racket-calendar
+# racket-google-calendar
 Reads Google Calendar events and creates a billing report. Implemented in the Racket language.
 
 I do some consulting and record my work in Google calendar. For each work-session, I create a Calendar item with a unique name for the project, set the duration of the item to be the period of work, and fill in notes in the item's Description field.
